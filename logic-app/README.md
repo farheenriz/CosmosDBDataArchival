@@ -1,6 +1,6 @@
 # Azure Billing Records Archival Solution
 
-![Architecture Diagram](docs/architecture-diagram.png)
+![Architecture Diagram](./docs/architecture-diagram.png)
 
 ## Key Features
 - Daily archival of records older than 3 months
